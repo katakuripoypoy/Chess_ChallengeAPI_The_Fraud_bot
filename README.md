@@ -1,7 +1,7 @@
 # Chess_ChallengeAPI_The_Fraud_bot
 
 A simple old school minimax with alpha beta purning along with some other optimizations,
-like move ordering and iterative deepening current estimated eval is somewhere in 2400-2500 elo
+like move ordering and iterative deepening, Transposition Table, killer and history herustics and some indepth evaluation. Current estimated eval is somewhere in 2400-2500 elo
 
 
 
